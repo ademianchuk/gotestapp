@@ -1,4 +1,4 @@
-module github.com/dimkadt/gotestapp
+module github.com/ademianchuk/gotestapp
 
 go 1.17
 
